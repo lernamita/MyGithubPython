@@ -1,0 +1,9 @@
+Program to find a word in a directory. Allows you to enter the directory, 
+open each file, search and close the file. Finally it displays a 
+report of the results containing, the searched word, the number of scanned 
+files and the name of the file where it was found.
+
+Modules used:
+
+TKinter
+OS
